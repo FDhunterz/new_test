@@ -1,0 +1,62 @@
+{
+  "login_title": "Login",
+  "@login_title": {
+    "description" : "Login" 
+  },
+  "login_subtitle": "Sign in to use the app",
+  "@login_subtitle": {
+        "description" : "Masuk untuk menggunakan aplikasi" 
+  },
+  "login_form_user": "User",
+  "@login_form_user": {
+        "description" : "User" 
+  },
+  "login_form_user_hint": "Enter User",
+  "@login_form_user_hint": {
+        "description" : "Masukkan Pengguna" 
+  },
+  "login_password": "Password",
+  "@login_password": {
+        "description" : "Password" 
+  },
+  "login_password_hint": "Enter Password",
+  "@login_password_hint": {
+        "description" : "Masukkan Password" 
+  },
+  "home_subtitle" : "Enjoy the application features",
+  "@home_subtitle": {
+        "description" : "Selamat menikmati fitur aplikasi" 
+  },
+  "home_search" : "Search Title ...",
+  "@home_search": {
+        "description" : "Cari Judul ..." 
+  },
+  "home_filter" : "Filter",
+  "@home_filter": {
+        "description" : "Filter" 
+  },
+  "home_year" : "Year",
+  "@home_year": {
+        "description" : "Tahun" 
+  },
+  "detail_year" : "Year",
+  "detail_languange" : "Language",
+  "detail_country" : "Country",
+  "detail_awards" : "Awards",
+  "detail_metascore" : "Metascore",
+  "detail_imdbRating" : "imdbRating",
+  "detail_imdbVotes" : "imdbVotes",
+  "detail_ratings" : "Ratings",
+  "detail_boxoffice" : "BoxOffice",
+  "detail_production" : "Production",
+  "detail_website" : "Website",
+  "detail_rated" : "Rated",
+  "detail_released" : "Released",
+  "detail_director" : "Director", 
+  "detail_writer" : "Writer", 
+  "detail_actors" : "Actors",
+  "logout" : "Logout",
+  "aboutus" : "About Us",
+  "detail_nodata" : "No Data"
+
+}

@@ -1,0 +1,29 @@
+{
+    "movie":{
+        "id":"integer|primary_key|auto_increment",
+        "Language":"String",
+        "Country":"String",
+        "Awards":"String",
+        "Metascore":"String",
+        "DVD":"String",
+        "imdbRating":"String",
+        "imdbVotes":"String",
+        "Ratings":"String",
+        "BoxOffice":"String",
+        "Production":"String",
+        "Website":"String",
+        "Rated":"String",
+        "Genre":"String",
+        "Runtime":"String",
+        "Released":"String",
+        "Director":"String",
+        "Writer":"String",
+        "Actors":"String",
+        "imdbID":"String",
+        "Poster":"String",
+        "Title":"String",
+        "Type":"String",
+        "Year":"String",
+        "Plot":"String"
+    }
+}
